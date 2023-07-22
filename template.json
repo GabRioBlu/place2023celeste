@@ -8,6 +8,14 @@
       ],
       "x": 1237,
       "y": 570
+    },
+    {
+      "name": "picoline",
+      "sources": [
+        "https://i.imgur.com/PMiG778.png"
+      ],
+      "x": 1259,
+      "y": 577
     }
   ],
   "whitelist": [
