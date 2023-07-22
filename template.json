@@ -1,0 +1,20 @@
+{
+  "contact": "discord.gg/celeste",
+  "templates": [
+    {
+      "name": "Maddy+Baddy",
+      "sources": [
+        "https://i.imgur.com/VSgFtq8.png"
+      ],
+      "x": 1237,
+      "y": 570
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "r/transplace",
+      "url": "https://trans.gg/template.json"
+    }
+  ],
+  "blacklist": []
+}
