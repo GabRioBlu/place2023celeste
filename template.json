@@ -16,6 +16,14 @@
       ],
       "x": 1259,
       "y": 577
+    },
+    {
+      "name": "Mural",
+      "sources": [
+        "https://i.imgur.com/6yg8MhO.png"
+      ],
+      "x": 1773,
+      "y": 1780
     }
   ],
   "whitelist": [
