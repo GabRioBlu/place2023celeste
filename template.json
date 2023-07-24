@@ -32,7 +32,14 @@
       ],
       "x": 1386,
       "y": 207
-    }
+    },
+    {
+      "name": "Small Summit",
+      "sources": [
+        "https://i.imgur.com/WbXvfIS.png"
+      ],
+      "x": 2671, 
+      "y": 1757
   ],
   "whitelist": [
     {
