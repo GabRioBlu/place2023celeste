@@ -24,6 +24,14 @@
       ],
       "x": 1773,
       "y": 1780
+    },
+    {
+      "name": "Bird+Mberry",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131615025216360529/1133029808520056982/1690205750090.png"
+      ],
+      "x": 1386,
+      "y": 207
     }
   ],
   "whitelist": [
@@ -34,3 +42,6 @@
   ],
   "blacklist": []
 }
+
+
+{"faction":"Celeste","contact":"https://discord.gg/celeste","templates":[,"frameWidth":null,"frameHeight":null,"frameRate":null,"frameCount":null,"startTime":null,"looping":null}]}
